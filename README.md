@@ -2,7 +2,7 @@
 🧠 Neuroscience enthusiast with an affection for technology 👨🏽‍💻<br>🍜 loves food & cooking<br>🃏 tells bad jokes<br>😶 makes up words
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maximilianmosimann) 
 
 # 💻 Tech Stack:
